@@ -1,0 +1,10 @@
+{
+    "name": "Taste of Texas",
+    "location": "123 Main Street, Anytown",
+    "description": "A cozy place serving Italian cuisine.",
+    "reviews": [
+        "Great food and service!",
+        "Lovely ambiance.",
+        "A bit pricey but worth it."
+    ]
+}
